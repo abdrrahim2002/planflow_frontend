@@ -18,7 +18,6 @@ RUN npm run build
 
 
 # Ensure that _redirects and 404.html are in the build folder
-COPY public/_redirects build/
 COPY public/404.html build/
 
 
