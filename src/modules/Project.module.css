@@ -1,0 +1,52 @@
+.project_card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.project_title {
+  font-size: 1.5rem;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.project_description {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 12px;
+}
+
+.project_details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.project_details span {
+  font-size: 0.9rem;
+  color: #555;
+  background-color: #e0e0e0;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.project_images {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.project_image {
+  max-width: 250px;
+  height: auto;
+  border-radius: 4px;
+}
+
+.editing {
+  margin-top: 2rem;
+  display: flex;
+  gap: 1rem;
+}

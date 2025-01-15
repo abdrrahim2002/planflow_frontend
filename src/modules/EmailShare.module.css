@@ -1,0 +1,26 @@
+.email_share_form {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.email_share_form  label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.email_share_form  input,
+.email_share_form  select {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.email_share_form  .form-group{
+  margin-bottom: 15px;
+}

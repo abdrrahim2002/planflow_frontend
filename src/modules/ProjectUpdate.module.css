@@ -1,0 +1,36 @@
+.update_project_form {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.update_project_form  label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.update_project_form input[type="text"],
+.update_project_form  input[type="date"],
+.update_project_form  select,
+.update_project_form  textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.update_project_form  input[type="file"]{
+  margin-bottom: 10px;
+}
+
+.update_project_form img {
+  margin-right: 2rem;
+}
+
+
+.update_project_form  .form-group{
+  margin-bottom: 15px;
+}

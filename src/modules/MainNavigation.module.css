@@ -1,0 +1,11 @@
+.mainnavebar a {
+  margin-right: 2rem;
+}
+
+.mainnavebar a:hover {
+  text-decoration: none !important;
+}
+
+.home {
+  margin-right: 2rem;
+}
